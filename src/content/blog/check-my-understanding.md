@@ -19,7 +19,7 @@ It's like having a world-class tutor available 24/7 who can instantly analyse yo
 
 ## The Pattern
 
-1. When learning something new, force yourself to write out your current understanding. Even if currently your understanding is limited. Force yourself to communicate whatever you can to the LLM.
+1. When learning something new, force yourself to write out your current understanding. Even if your current understanding is limited. Force yourself to communicate whatever you can to the LLM.
 2. Start your prompt with "Check my understanding..."
 3. Get immediate, detailed feedback on the quality of your explanation
 4. Refine your understanding based on the feedback
