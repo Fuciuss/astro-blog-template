@@ -8,7 +8,8 @@ import { siteConfig } from './src/data/site.config'
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://reespawson.com/',
-	base: '/astro-blog-template',
+	// base: '/astro-blog-template',
+	base: '/',
 	markdown: {
 		remarkPlugins: [remarkReadingTime],
 		drafts: true,
