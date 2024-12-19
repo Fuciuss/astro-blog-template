@@ -11,6 +11,7 @@ interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
 	// site: 'https://blog-template-gray.vercel.app/', // Write here your website url
+	base: '/astro-blog-template',
 	site: 'https://reespawson.com/',
 	author: 'Rees Pawson', // Site author
 	title: 'Rees Pawson', // Site title.
